@@ -102,7 +102,6 @@ function slideTiles(cells) {
                cell.tile = null
             }
          }
-         console.log(promises)
          return promises
       })
    )
